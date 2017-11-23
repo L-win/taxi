@@ -1,0 +1,28 @@
+body{ background-color: #ffd500; font-family: 'open sans' !important; cursor: default; }
+
+#wrapper{ width: 650px; padding: 20px; margin: auto; margin-top: 70px; background-color: white; border-radius: 10px; border-image: url(img/border.png) 16 round !important; border: 16px solid transparent; }
+#block { margin: 10px; }
+
+.top{ text-align: center; word-spacing: 60px; letter-spacing: 1px; }
+
+.middle_one{ margin-top: 50px !important; }
+ td { width: 33%; }
+ #mo_table{ width: 100%; }
+ #features{ list-style-image: url(img/feat.list.png); }
+ #places{ padding-right: 35px;  list-style-image: url(img/place.list.png); }
+ 
+ #mo_order_table { width:50%; margin: auto; }
+  #order_cell { border: 1px solid #ffd500; width: 300px; padding: 10px; }
+  
+.middle_two{ text-align: right; padding-right: 40px; margin: 50px 0px !important; }
+ #button{ padding: 8px 15px; background-color:  #ffd500; text-decoration: none; border-radius: 5px; }
+ #button:visited{ color:black; }
+ 
+.foot{ font-size: 15px; color: darkgray; }
+ .foot:hover{ color:black; }
+
+/* ----------------------------------------------------------------------- */
+
+
+h1{ font-weight:normal; }
+html, body, p, div { margin: 0;padding: 0;border: 0;font-size: 100%;font: inherit;vertical-align: baseline; }
